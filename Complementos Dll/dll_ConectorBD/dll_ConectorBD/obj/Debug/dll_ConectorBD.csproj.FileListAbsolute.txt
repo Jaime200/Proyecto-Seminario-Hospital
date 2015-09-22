@@ -1,0 +1,6 @@
+C:\Users\Leonel Kira\documents\visual studio 2013\Projects\dll_ConectorBD\dll_ConectorBD\obj\Debug\dll_ConectorBD.frmConector.resources
+C:\Users\Leonel Kira\documents\visual studio 2013\Projects\dll_ConectorBD\dll_ConectorBD\obj\Debug\dll_ConectorBD.csproj.GenerateResource.Cache
+C:\Users\Leonel Kira\documents\visual studio 2013\Projects\dll_ConectorBD\dll_ConectorBD\bin\Debug\dll_ConectorBD.dll
+C:\Users\Leonel Kira\documents\visual studio 2013\Projects\dll_ConectorBD\dll_ConectorBD\bin\Debug\dll_ConectorBD.pdb
+C:\Users\Leonel Kira\documents\visual studio 2013\Projects\dll_ConectorBD\dll_ConectorBD\obj\Debug\dll_ConectorBD.dll
+C:\Users\Leonel Kira\documents\visual studio 2013\Projects\dll_ConectorBD\dll_ConectorBD\obj\Debug\dll_ConectorBD.pdb
